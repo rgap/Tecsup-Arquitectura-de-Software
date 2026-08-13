@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Archivos temporales generados durante el trabajo
+tmp/
+temp/
+*.tmp
+*.temp
+*.log
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Variables y configuracion local
+.env
+.env.*
+!.env.example
+
+# pdfs
+**/*.pdf
