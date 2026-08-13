@@ -1,3 +1,5 @@
+**Nombre: REL GUZMAN**
+
 **EC-02**
 
 **EC-02 · La compra responde durante el pico**
